@@ -156,6 +156,9 @@ section:last-child {
 	font-size: 1.5em;
 	margin-bottom: -2px;
 }
+.bulletpoint{
+        color:#2e2e2e;
+}
 
 .subDetails {
 	font-size: 0.8em;
